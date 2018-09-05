@@ -9,7 +9,6 @@ echo.
 echo.
 apt update && apt upgrade -y
 apt install nload htop -y
-curl -sSL https://install.pi-hole.net | bash
 clear
 echo █▀▀ █▀▀ ▀▀█▀▀ █░░█ █▀▀█
 echo ▀▀█ █▀▀ ░░█░░ █░░█ █░░█
